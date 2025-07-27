@@ -20,7 +20,7 @@ GUI application for speech enhancement, separation, and target speaker extractio
 ## 🚀 Quick Start
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jrayala-livecode/ClearVoice-GUI
 cd ClearVoice
 pip install -r requirements.txt
 python main.py
