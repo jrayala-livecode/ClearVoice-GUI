@@ -1,0 +1,10 @@
+# GUI and Drag & Drop functionality
+tkinterdnd2
+
+# Audio processing library
+clearvoice
+
+# Standard library modules (included with Python):
+# - os
+# - tkinter
+# - threading
