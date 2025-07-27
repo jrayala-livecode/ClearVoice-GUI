@@ -6,6 +6,24 @@ A user-friendly GUI application for speech enhancement, separation, and target s
 ![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange.svg)
 
+## ⚠️ Important Notice
+
+**This repository was primarily built with AI assistance** as a quick solution to finish some batch processing of audio files I needed to do. While the code has been tested, the functionality is not guaranteed to work perfectly in all environments or use cases. This is an experimental project and should be used accordingly.
+
+**🤖 AI-Generated Code Disclaimer:**
+- Code may contain bugs or edge cases not fully tested
+- Functionality may vary across different systems
+- Performance and reliability are not guaranteed
+- Built quickly for a specific batch processing need
+
+**We welcome community contributions!** If you encounter issues, have suggestions, or want to improve the code, please:
+- 🐛 Report bugs via [Issues](../../issues)
+- 🔧 Submit fixes and improvements via Pull Requests
+- 💡 Share suggestions and feature requests
+- 📚 Help improve documentation
+
+Your contributions help make this tool better for everyone!
+
 ## ✨ Features
 
 - **🎯 Multiple Audio Processing Tasks**
